@@ -100,14 +100,14 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base md:text-lg">
-            Hi I am Amol , I also go by my alias 'Dingus' , I am a passionate
-            Coder , Cyber Security Researcher , Pentester and Bug Bounty Hunter.
-            Since my childhood , I have always been interested in building and
-            breaking things over my PC I work actively to build something useful
-            for the internet and also improve the security of my clients by
-            doing Bug Hunting on Responsible Disclosure Programs. I also share
-            my work through my writeups on medium which have got more than 2.5k
-            views and on Youtuber as well.
+            Hi I am Amol , I also go by my alias &apos;Dingus&apos; , I am a
+            passionate Coder , Cyber Security Researcher , Pentester and Bug
+            Bounty Hunter. Since my childhood , I have always been interested in
+            building and breaking things over my PC I work actively to build
+            something useful for the internet and also improve the security of
+            my clients by doing Bug Hunting on Responsible Disclosure Programs.
+            I also share my work through my writeups on medium which have got
+            more than 2.5k views and on Youtuber as well.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

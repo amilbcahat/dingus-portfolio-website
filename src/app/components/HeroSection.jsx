@@ -25,7 +25,7 @@ const HeroSection = () => {
             {/* We cant color gradient here */}
             {/* Here we first make the text transparent , then cut the text out to show bg , then we implement bg in background ! */}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
-              Hello , I'm {""}
+              Hello , I&apos;m {""}
             </span>
             <br />
             <TypeAnimation
