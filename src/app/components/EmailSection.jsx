@@ -70,7 +70,7 @@ const EmailSection = () => {
           </Link>
           <Link href="https://www.youtube.com/channel/UCZfemWCUetdBXdwykG8iQTA">
             <Image
-              className="bg-[#ffffff] mt-1 ml-1.5 rounded"
+              className="bg-[#ffffff] mt-1 ml-1 rounded"
               width={40}
               height={40}
               src={YoutubeIcon}
