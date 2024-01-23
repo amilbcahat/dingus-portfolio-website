@@ -16,8 +16,8 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    metric: "Users",
-    value: "50,000",
+    metric: "Users Satisfied on Acadhut",
+    value: "100,000",
     postfix: "+",
   },
   {
@@ -26,8 +26,9 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    metric: "Years",
-    value: "2.5",
+    metric: "Bugs Reported",
+    value: "50",
+    postfix: "+",
   },
 ];
 

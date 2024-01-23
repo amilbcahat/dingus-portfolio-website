@@ -22,8 +22,8 @@ const projectsData = [
       "An education oriented social media made with MERN stack , along with Aws s3 and ec2",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "",
+    gitUrl: "",
+    previewUrl: "http://acadhut.com",
   },
   {
     id: 3,
