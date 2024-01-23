@@ -12,7 +12,7 @@ const projectsData = [
       "A porfolio website made with Next.js and TailwindCSS , showcasing my skills :)",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "https://github.com/amilbcahat/dingus-portfolio-website",
     previewUrl: "/",
   },
   {
