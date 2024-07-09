@@ -33,7 +33,11 @@ const HeroSection = () => {
                 // Same substring at the start will only be typed out once, initially
                 "Amol Verma!",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
+                "Software Developer",
+                1000,
                 "Web Developer",
+                1000,
+                "Software Tester",
                 1000,
                 "Pentester",
                 1000,
@@ -49,7 +53,9 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Hello , I am Amol Verma , COO of Acadhut, a passionate coder and
             pentester , I love to build stuff through my skills , and also want
-            to secure the internet through my hacking skills !
+            to secure the internet through my hacking skills ! I have solved
+            over 450+ problems on LeetCode , which gives me extra edge in DSA
+            and OOPs as well.
           </p>
           <div>
             {/* Gradient styling in button  */}
@@ -60,11 +66,19 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="https://docs.google.com/document/d/1nYgQU4rpVhc7qbZVCSpHCrNEMArWAv50/edit"
+              href="https://drive.google.com/file/d/1nian6zVjTa2-JZ4sg_ykKuE2qBhbz75Q/view"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 Download CV
+              </span>
+            </Link>
+            <Link
+              href="https://leetcode.com/mrShebang"
+              className="ml-4 px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+            >
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                LeetCode
               </span>
             </Link>
           </div>

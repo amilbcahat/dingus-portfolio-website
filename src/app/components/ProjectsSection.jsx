@@ -27,7 +27,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "WhatsApp Clone",
+    title: "MessageMate",
     description:
       "Realtime Chat project made with MERN , Redux Toolkit and Socket.io",
     image: "/images/projects/3.png",
@@ -37,9 +37,9 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Facebook Clone",
+    title: "NetworkNest",
     description:
-      "A Facebook clone made with MERN , Redux and using Cloudinary Cloud services to store images and files",
+      "A social network website made with MERN , Redux and using Cloudinary Cloud services to store images and files",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/amilbcahat/FacebookCl",

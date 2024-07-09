@@ -13,6 +13,7 @@ const TAB_DATA = [
         <li>
           MERN Full Stack Developer (Node.js , React.js, Express.js , MongoDb, )
         </li>
+        <li>Next.js</li>
         <li>SQL</li>
         <li>Python</li>
         <li>C++</li>
@@ -21,10 +22,10 @@ const TAB_DATA = [
         <li>Bash</li>
         <li>Web Pentesting</li>
         <li>App Pentesting</li>
-
-        <li>Tailwind </li>
+        <li>Software testing</li>
+        <li>TailwindCSS </li>
         <li>Next.js </li>
-        <li>Devops </li>
+        <li>Devops (Docker, AWS s3 , AWS ,ec2) </li>
       </ul>
     ),
   },
@@ -76,7 +77,9 @@ const TAB_DATA = [
           Got rewarded by Squadcast for finding Exposed Creds in Mobile
           Application Security Vulnerability
         </li>{" "}
-        <li>Got rewarded by Unbabel for finding A Security Vulnerability</li>{" "}
+        <li>Got rewarded by Unbabel for finding A Security Vulnerability</li>
+        <li>Got rewarded by GetJobber for finding A Security Vulnerability</li>
+        <li>Got rewarded by Ginzy for finding A Security Vulnerability</li>
       </ul>
     ),
   },
