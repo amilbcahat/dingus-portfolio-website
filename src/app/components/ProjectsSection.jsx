@@ -23,7 +23,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "",
-    previewUrl: "http://acadhut.com",
+    previewUrl: "http://acadhut.in",
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const projectsData = [
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/amilbcahat/FacebookCl",
-    previewUrl: "",
+    previewUrl: "https://dingus-message-mate-project.onrender.com/",
   },
   {
     id: 5,
